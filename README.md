@@ -1,0 +1,2 @@
+# Bazinga
+My First Repository 
